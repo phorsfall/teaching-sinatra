@@ -65,7 +65,7 @@ __END__
 <h1>My Blog</h1>
 <a href="/">Show All Posts</a>
 <h2><%= @post[:title] %></h2>
-<pre><%= @post[:body] %></pre>
+<p><%= @post[:body] %></p>
 <p><%= @post[:created_at] %></p>
 
 @@new
