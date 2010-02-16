@@ -42,7 +42,7 @@ end
 get "/:title" do |title|
   filename = "posts/#{title}.txt"
   File.open(filename) do |file|
-    @post = { :title => filename, :body => file.read, :created_at => file.mtime.strftime("%c") }
+    @post = { :title => filename[6..-5], :body => file.read, :created_at => file.mtime.strftime("%c") }
   end
   erb :show
 end
