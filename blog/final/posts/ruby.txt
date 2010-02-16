@@ -1,0 +1,5 @@
+Like when you meet Somebody in college and they look like somebody who used to hit you in the face with paintbrushes when you were a kid. And so, impulsively, you conclude that this new Somebody is likely a non-friend. You wince at their hair. You hang up phones loudly during crucial moments in their anecdotes. You use your pogo stick right there where they are trying to walk!
+
+Six months later, somehow, you and Somebody are sitting at a fountain having a perfectly good chat. Their face doesn't look so much like that childhood nemesis. You've met the Good Twin. You clicked.
+
+So whereas I should probably be pounding your teeth in with hype about Ruby and the tightly-knit cadre of pertinent ancronyms that accompany it everywhere (whetting the collective whistles of your bosses and their bosses' bosses), instead I will just let you coast. I'll let you freefall through some code, interjecting occassionally with my own heartfelt experiences. It'll be quite easy, quite natural.

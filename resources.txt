@@ -1,0 +1,5 @@
+Installing Ruby on Windows:
+http://rubyforge.org/frs/?group_id=167
+
+Learn To Program:
+http://pine.fm/LearnToProgram/
