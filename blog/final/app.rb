@@ -14,6 +14,7 @@ end
 # 1. Sort posts, created_at descending.
 # 2. Use sample posts from school website or similar.
 # 3. Truncate posts.
+# 4. There's probably a chance here to introduce some method/class to wrap up fetching a post.
 
 get "/" do
   @posts = []
@@ -38,9 +39,6 @@ post "/" do
   
   redirect "/"
 end
-
-# Just checking the show action makes sense with this set-up. Will be fine.
-# There's probably a chance here to introduce some method/class to wrap up fetching a post.
 
 get "/:title" do |title|
   filename = "posts/#{title}.txt"
