@@ -1,9 +1,6 @@
 require "rubygems"
 require "sinatra"
 
-get "/favicon.ico" do
-end
-
 # 1. Can start with just an array of strings, each string is the body of a post. Knowledge of Array and File.
 # 2. Can add title with knowlege of Hash, could use string instead of symbol for key.
 # 3. When first adding date, formatting can be left off.
@@ -38,6 +35,9 @@ post "/" do
   end
   
   redirect "/"
+end
+
+get "/favicon.ico" do
 end
 
 get "/:title" do |title|
