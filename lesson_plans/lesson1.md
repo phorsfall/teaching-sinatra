@@ -29,3 +29,7 @@
 * More about methods
   * Methods as verbs
   * More string examples (Probably skip string formatting, higher math, random numbers.)
+
+* Flow Control
+
+* Arrays and Iterators
