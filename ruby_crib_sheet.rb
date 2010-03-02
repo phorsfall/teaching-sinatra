@@ -48,3 +48,7 @@ puts var # => 15
 puts "2".to_i + "2".to_i # => 4
 puts 2.to_f # => 2.0
 puts 22.to_s * 3 # => 222222
+
+# Other Methods
+gets # => Returns text entered up to an including the return
+gets.chomp # => chomp removes the return from the end of the string
