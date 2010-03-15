@@ -1,4 +1,4 @@
-# Ruby Crib Sheet
+# Ruby Cheat Sheet
 
 # Numbers
 
