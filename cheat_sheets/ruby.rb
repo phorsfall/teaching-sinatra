@@ -49,6 +49,21 @@ puts "2".to_i + "2".to_i # => 4
 puts 2.to_f # => 2.0
 puts 22.to_s * 3 # => 222222
 
+# Comparison Methods
+puts 1 > 2 # => false
+puts 1 < 2 # => true
+
+puts 5 >= 5 # => true
+puts 5 <= 4 # => false
+
+puts 1 == 1 # => true
+puts 1 != 2 # => true
+
+# String Methods
+puts "ruby".upcase # => RUBY
+puts "RUBY".downcase # => ruby
+puts "ruby".capitalize # => Ruby
+
 # Other Methods
 gets # => Returns text entered up to an including the return
 gets.chomp # => chomp removes the return from the end of the string
