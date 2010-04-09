@@ -93,5 +93,5 @@ Comparison Methods
 Other methods
 =============
 
-    gets # => Returns text entered up to an including the return
+    gets # => Returns text entered up to and including the return
     gets.chomp # => chomp removes the return from the end of the string
