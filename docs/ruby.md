@@ -90,6 +90,40 @@ Comparison Methods
     puts 1 == 1 # => true
     puts 1 != 2 # => true
 
+Branching
+=========
+
+Using `if`:
+
+    score = 100
+    high_score = 900
+    
+    if score > high_score
+      puts "Congratulations, new high score!"
+    end
+
+Using `if` and `else`:
+
+    balance = 10
+    
+    if balance >= 0
+      puts "In credit"
+    else
+      puts "In debit"
+    end
+
+Using `if`, `elsif` and `else`:
+
+    age = 16
+    
+    if age < 14
+      puts "Under 14s"
+    elsif age < 16
+      puts "Under 16s"
+    else
+      puts "16 and over"
+    end
+
 Arrays
 ======
 
