@@ -90,6 +90,56 @@ Comparison Methods
     puts 1 == 1 # => true
     puts 1 != 2 # => true
 
+Arrays
+======
+
+Creating arrays:
+
+    [] # An empty array.
+    [5]
+    ['Hello', 'Goodbye']
+    [89.9, 'vanilla', [true, false]]
+
+Accessing arrays:
+
+    names = ['Tom', 'George', 'Bill']
+    puts names[0] # => Tom
+    puts names[1] # => George
+    puts names[2] # => Bill
+    puts names[3] # => nil
+
+The .each method:
+
+    languages = ['English', 'French', 'Ruby']
+    
+    languages.each do |language|
+      puts 'I love ' + language
+    end
+
+More array methods:
+
+    foods = ['cheese', 'eggs', 'ham']
+    
+    puts foods.join(', ') # => cheese, eggs, ham
+    
+    # Return the last item from the array.
+    puts foods.last # => ham
+    puts foods.length # => 3
+    
+    # Return the last item from the array and remove it.
+    puts foods.pop # => ham
+    puts foods.length # => 2
+    
+    # Add an item to the end of the array.
+    foods.push 'bread'
+    puts foods.join(', ') # => cheese, eggs, bread
+    
+    foods.reverse # => ['bread', 'eggs', 'cheese']
+    foods.sort # => ['bread', 'cheese', 'eggs']
+
+Some other methods we've used on strings, also work on arrays. Try `+` and `*` and see what they do.
+
+
 Other methods
 =============
 
