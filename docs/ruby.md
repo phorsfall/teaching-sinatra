@@ -124,6 +124,17 @@ Using `if`, `elsif` and `else`:
       puts "16 and over"
     end
 
+Looping
+=======
+
+The code between the `while` and `end` will be repeated `while` the given condition (in this case, `command != "bye"`) is `true`.
+
+    command = ""
+    while command != "bye"
+      puts command
+      command = gets.chomp
+    end
+
 Arrays
 ======
 
