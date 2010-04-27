@@ -6,3 +6,5 @@ Resources
 * [Installing Ruby on Windows](http://rubyforge.org/frs/?group_id=167)
 * [Learn To Program](http://pine.fm/LearnToProgram/)
 * [Teach Me To Code - Ruby Essentials - Strings, Arrays and Hashes](http://www.teachmetocode.com/screencasts/ruby-essentials-strings-arrays-and-hashes)
+* [Introduction to HTML](http://www.w3.org/MarkUp/Guide/)
+* [Introduction to CSS](http://www.w3.org/MarkUp/Guide/Style.html)
