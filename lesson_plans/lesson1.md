@@ -1,14 +1,15 @@
 # Lesson 1
 
+03/03/2010
+
 ## Introduction
 
-* Thanks
 * Introducing me
   * Name
-  * Job
-  * The course
-    * Who's done any programming?
-* What are building? Introducing our Blog App
+  * What do I do?
+* The course
+  * Who's done any programming?
+* What are we building? Introduce our Blog App.
 * A few moving parts:
   * HTML
   * CSS
@@ -20,8 +21,5 @@
 
 ## Beginning Ruby
 
-* Work through notes
-* Do the first exercise from the end of Chapter 4
-  * They should create a new file for their program
-  * Can do the other example if finished
+* Work through chapters 1 and 2 of Learn to Program
 
