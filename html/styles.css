@@ -1,0 +1,31 @@
+#ruby-logo {
+  float: left;
+  padding-right: 20px;
+}
+
+body {
+  font-family: georgia;
+  padding: 0 40px;
+}
+
+p {
+  line-height: 20pt;
+}
+
+h1 {
+  font-size: 70pt;
+  margin-bottom: 20px;
+}
+
+h1, h2 {
+  color: maroon;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+code {
+  font-size: 14pt;
+  background-color: yellow;
+}
