@@ -12,6 +12,10 @@ Use quotes when changing to another directory with spaces in its name:
 
 `cd "ruby programs"`
 
+List all files in the current directory:
+
+`dir`
+
 Run a Ruby program:
 
 `ruby app.rb`
