@@ -190,3 +190,6 @@ Other methods
 
     gets # => Returns text entered up to and including the return
     gets.chomp # => chomp removes the return from the end of the string
+
+    rand(5) # => Returns a random number, from 0 to 4 inclusive.
+    rand(100) # => From 0 to 99.
