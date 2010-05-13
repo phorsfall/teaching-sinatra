@@ -1,6 +1,7 @@
 Resources
 ---------
 
+* [Try Ruby](http://tryruby.org/)
 * [Ruby Cheat Sheet](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/ruby.md)
 * [Using the Command Prompt](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/command_prompt.md)
 * [Installing Ruby on Windows](http://rubyforge.org/frs/?group_id=167)
