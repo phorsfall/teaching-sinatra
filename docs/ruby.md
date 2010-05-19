@@ -58,6 +58,8 @@ String Methods
     puts "ruby".upcase # => RUBY
     puts "RUBY".downcase # => ruby
     puts "ruby".capitalize # => Ruby
+    "kirsty ben sarah".split # => ["kirsty", "ben", "sarah"]
+    "a,b,c".split(",") # => ["a", "b", "c"]
 
 Variables
 =========
@@ -184,6 +186,30 @@ More array methods:
 
 Some other methods we've used on strings, also work on arrays. Try `+` and `*` and see what they do.
 
+Hashes
+======
+
+Creating hashes:
+
+    {} # An empty hash
+    { :a => 12, :b => 99 } # Keys are often symbols,
+    { "Peter" => 12500, "Jayne" => 19000 } # but don't have to be.
+
+Accessing hashes:
+
+    scores = { :tom => 100, :liz => 200 }
+    puts scores[:tom] # => 100
+    puts scores[:liz] # => 200
+    scores[:bob] = 50 # Add a new value to the hash.
+    puts scores[:bob] # => 50
+
+More hash methods:
+
+    scores = { :tom => 100, :liz => 200 }
+
+    scores.length # => 2
+    scores.keys # => [:tom, :liz]
+    scores.values # => [100, 200]
 
 Other methods
 =============
