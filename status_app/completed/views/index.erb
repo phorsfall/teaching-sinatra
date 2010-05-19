@@ -1,0 +1,7 @@
+<h1>What are you doing today?</h1>
+
+<% @statuses.each do |status| %>
+  <h2><%= status["text"] %></h2>
+  <p>Updated at <%= status["date"] %></p>
+  <hr />
+<% end %>
