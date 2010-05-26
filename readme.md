@@ -2,7 +2,7 @@
 
 ### Installing Ruby
 
-Grab the latest version of the [RubyInstaller](http://rubyinstaller.org/download.html) for Windows.
+On Windows, grab the latest version of the [RubyInstaller](http://rubyinstaller.org/download.html).
 
 If you have a Mac, you probably already have Ruby install.
 
@@ -12,10 +12,10 @@ You can install Sinatra like so:
 
     gem install sinatra
 
+See the [Sinatra](http://www.sinatrarb.com/) web site for more information.
+
 1. *Install Ruby first, see above.*
 2. *See the From the Lessons section (below) for help using the command prompt.*
-
-See the [Sinatra](http://www.sinatrarb.com/) web site for more information.
 
 ### Text Editors
 
