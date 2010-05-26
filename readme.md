@@ -27,7 +27,7 @@ See the [Sinatra](http://www.sinatrarb.com/) web site for more information.
 * [Ruby Cheat Sheet](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/ruby.md)
 * [Using the Command Prompt](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/command_prompt.md)
 * [Dice Rolling App](http://github.com/phorsfall/teaching-sinatra/tree/master/dice/)
-* [Status Update App](http://github.com/phorsfall/teaching-sinatra/tree/master/status_app/completed/)
+* [Status Update App](http://github.com/phorsfall/teaching-sinatra/tree/master/status_app/)
 
 # Learning Ruby
 
