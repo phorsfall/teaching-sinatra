@@ -1,5 +1,10 @@
 <h1>What are you doing today?</h1>
 
+<form action="/update" method="post">
+  <input type="text" name="status" />
+  <input type="submit" />
+</form>
+
 <% @statuses.each do |status| %>
   <h2><%= status["text"] %></h2>
   <p>Updated at <%= status["date"] %></p>

@@ -1,2 +1,2 @@
-Eating dinner|18 May 2010
-Hello world|17 May 2010
+Hello, world!|Wed May 26 11:07:12 +0100 2010
+Woot! \m/|Wed May 26 11:07:25 +0100 2010
