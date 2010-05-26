@@ -26,15 +26,13 @@ See the [Sinatra](http://www.sinatrarb.com/) web site for more information.
 
 * [Ruby Cheat Sheet](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/ruby.md)
 * [Using the Command Prompt](http://github.com/phorsfall/teaching-sinatra/blob/master/docs/command_prompt.md)
-* [Dice Rolling App]()
-* [Status Update App]()
+* [Dice Rolling App](http://github.com/phorsfall/teaching-sinatra/tree/master/dice/)
+* [Status Update App](http://github.com/phorsfall/teaching-sinatra/tree/master/status_app/completed/)
 
 # Learning Ruby
 
-Most of the Ruby we learnt was based on these tutorials.
-There's much more here than we had time to cover.
-
-* [Learn To Program](http://pine.fm/LearnToProgram/)
+Most of the Ruby we learnt was based on [Learn To Program](http://pine.fm/LearnToProgram/).
+We didn't have time to cover everything, so it's worth going back to.
 
 See also:
 
