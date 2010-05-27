@@ -4,7 +4,7 @@
 
 On Windows, grab the latest version of the [RubyInstaller](http://rubyinstaller.org/download.html).
 
-If you have a Mac, you probably already have Ruby install.
+If you have a Mac, you probably already have Ruby installed.
 
 ### Installing Sinatra
 
